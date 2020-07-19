@@ -1,7 +1,14 @@
 ### Hello :earth_americas: My name is Claudio!
 
-I am a *Software Developer* with experience in Languages like Java and Python, with Frameworks like Spring, Django and Django Rest Framework. I am looking for collaborates in a position as developer because I have the necessary knowledge to work as a Backend / Frontend Developer. I currently work as a NetDevOps developer working with Python, Django Rest Framework, Ansible, Bash Scripting and more technologies. 
+I am a *Software Developer* with experience in Java, JavaScript, Python and many more tools for software development. 
 
+👯 I am looking for collaborate on a position as developer because I have the necessary knowledge to work as a Backend / Frontend Developer. 
+
+🔭 I am currently work as a NetDevOps developer working with Python, Django Rest Framework, Ansible, Bash Scripting and more technologies. 
+
+💬 Ask me about Java or Python. If I know the answer I will give it to you.
+
+📫 You could reach me in my Linkedin https://www.linkedin.com/in/claudiojvv/
 
 
 
