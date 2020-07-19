@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello :earth_americas: My name is Claudio!
+
+I am a *Software Developer* with experience in Languages like Java and Python, with Frameworks like Spring, Django and Django Rest Framework. I am looking for collaborates in a position as developer because I have the necessary knowledge to work as a Backend / Frontend Developer. I currently work as a NetDevOps developer working with Python, Django Rest Framework, Ansible, Bash Scripting and more technologies. 
+
+
+
 
 <!--
 **Audio10/Audio10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
